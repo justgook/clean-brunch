@@ -44,13 +44,5 @@
 
     "uglify-js-brunch": ">= 1.0 < 1.7",
     "clean-css-brunch": ">= 1.0 < 1.7"
-  },
-    "devDependencies": {
-    "mocha": "*",
-    "chai": "*",
-    "sinon": "*",
-    "sinon-chai": "*",
-    "supertest": "*",
-    "blanket": "*"
   }
 }
