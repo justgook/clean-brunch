@@ -2,7 +2,6 @@
 node_modules
 npm-debug.log
 public/
-lib/
 docs/_build
 
 template/base/.gitignore
