@@ -15,7 +15,7 @@
   },
   
   "scripts": {
-    "start": "./node_modules/.bin/cake help:npm",
+    "start": "brunch watch --server",
 
     "build:dev":    "./node_modules/.bin/cake build:dev",
     "build:prod":   "./node_modules/.bin/cake build:prod",
