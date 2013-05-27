@@ -1,3 +1,0 @@
-[submodule "vendor/scripts/jquery"]
-	path = vendor/scripts/jquery
-	url = https://github.com/jquery/jquery
