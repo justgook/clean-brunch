@@ -3,7 +3,8 @@ Clean Brunch 0.0.1
 
 Introduction
 ------------
-**$ npm install && npm start**
+1. clone Repository
+2. **$ npm install && npm start**
 
 Command List
 ------------
