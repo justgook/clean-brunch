@@ -10,7 +10,7 @@ Command List
 * **npm install** install all dependencies (bower/karma/brunch/compilers)
 * **npm start** starts server on http://localhost:3333 and run brunch wachers, so all code is up to date
 
-**npm test** run all tests
+* **npm test** run all tests
 
 Requirements
 ------------
