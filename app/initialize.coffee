@@ -1,8 +1,4 @@
-# Initialize Router
-require 'routers/main'
-
 $ ->
-  # Initialize Backbone History
-  Backbone.history.start pushState: yes
-
-   # if (typeof Object.freeze === 'function') Object.freeze(this)
+  template = require "template"
+  $("#wraper").html template data:"hello world"
+  Object.freeze(this) if typeof Object.freeze == 'function'
