@@ -37,7 +37,7 @@ Details
 ### Utilities
 
  * [jQuery](http://jquery.com) 1.9.1
- * [Underscore](http://underscorejs.org) 1.4.4
+ * [Lo-Dash](http://lodash.com/) 2.1.0
  * [Backbone.subroute](https://github.com/ModelN/backbone.subroute) 1.0.0
 
 
