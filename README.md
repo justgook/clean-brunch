@@ -48,7 +48,7 @@ Details
 
 ### Testing
   * [Karma](http://karma-runner.github.io/0.10/index.html) 0.10
-  * [mocha](http://visionmedia.github.io/mocha/)
+  * [mocha](http://mochajs.org/)
   * [Chai](http://chaijs.com/)
 
     Bundled plugins:
